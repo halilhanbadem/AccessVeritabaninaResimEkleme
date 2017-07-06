@@ -1,5 +1,5 @@
 # veritaban-naresimekleme
-Herhangi bir veritabanına resim ekleyerek kullanıcı arayüzüne özellik ekleme.
+Herhangi bir resmi veritabanına  ekleyerek kullanıcı arayüzüne özellik ekleme.
 
 Kullanılan ek bileşenler: UniDac
 
